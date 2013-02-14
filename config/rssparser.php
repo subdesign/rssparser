@@ -8,7 +8,7 @@ return array(
 	'order_by_date'    => true,
 	'container_div_id' => 'newsfeed',
 	'item_count'       => 3,	// number of feed items 
-	'result'		   => 'html',	 // raw xml / html
+	'result'		   => 'html',	 // raw / html
 	'use_daysago'	   => true,		// needs "Date" bundle
 	'thumbnail_x_size' => 30,
 	'thumbnail_y_size' => 30,
